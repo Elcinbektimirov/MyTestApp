@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fa8ee5d8-e8d2-46dd-9f26-3951468e4654">
+  <name>MobileApp</name>
+  <synonym>
+    <key>en</key>
+    <value>Mobile app</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="04a3cfe5-f3a1-48e4-8735-fc07df2ad5b7"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="f507778e-150d-4066-bf34-11b7f67a1842"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="34d0fa5a-4066-459f-9eff-9a44041773ce"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="3d3e3a8e-1c03-4f1a-b2cf-e218443b5289"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="757e0914-8576-47db-9da4-6215e5ad1304"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="a481ae56-fb33-415c-9fb4-dfafe5d3cd45"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="05814baf-8698-487c-bcbb-a3d9fddcc5e2"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>MobileDevice</usePurposes>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.English</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="cf1e3983-e241-4e54-a2f2-85018b07b0f2">
+    <name>English</name>
+    <synonym>
+      <key>en</key>
+      <value>English</value>
+    </synonym>
+    <languageCode>en</languageCode>
+  </languages>
+  <commonForms>CommonForm.Form</commonForms>
+</mdclass:Configuration>
