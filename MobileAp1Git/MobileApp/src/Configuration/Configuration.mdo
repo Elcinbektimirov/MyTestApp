@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7ab1e1ef-1a95-4590-a807-496ce33b0913">
+  <name>MobileApp</name>
+  <synonym>
+    <key>en</key>
+    <value>Mobile app</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="dba7756b-47e9-4606-9df5-b325c31fdc01"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="351e86b8-dd47-4be4-b88d-3ba1ffa4c11d"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="992fddc6-5748-4f44-95fc-8dd757cebbf5"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="02efd3c1-fc20-4a12-b30b-2bf4668d8f6e"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="c8e2b8af-39e9-4850-a9f8-b4a584f18410"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="f7e7bb9d-e2d5-419c-af63-ca151c126d8a"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="eda08dc9-2834-4ea7-8f95-212097878990"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>MobileDevice</usePurposes>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>InAppPurchases</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>PersonalComputerFileExchange</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>NumberDialing</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>CallProcessing</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>CallLog</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>AutoSendSMS</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>ReceiveSMS</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>SMSLog</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>Contacts</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>BackgroundLocation</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>Location</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.English</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="1b4fc92b-6fae-4fe0-989c-bb57b0b6e8d7">
+    <name>English</name>
+    <synonym>
+      <key>en</key>
+      <value>English</value>
+    </synonym>
+    <languageCode>en</languageCode>
+  </languages>
+</mdclass:Configuration>
