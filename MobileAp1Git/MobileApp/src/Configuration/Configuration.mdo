@@ -82,4 +82,5 @@
     </synonym>
     <languageCode>en</languageCode>
   </languages>
+  <commonForms>CommonForm.GeneralForm</commonForms>
 </mdclass:Configuration>
